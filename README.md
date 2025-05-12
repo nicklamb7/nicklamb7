@@ -13,4 +13,4 @@ Currently a Software Engineer at IBM based in London. I'm passionate about build
 ## 📫 Connect With Me
 
 - 📧 Email: nicholasjclamb@gmail.com
-- 🔗 LinkedIn: [[Your LinkedIn profile]](https://www.linkedin.com/in/nicklamb7/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/nicklamb7/
