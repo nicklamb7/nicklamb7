@@ -1,8 +1,16 @@
-### 👋 Nick's GitHub Profile
+# 👋 Hi, I'm Nick
 
-Hey there, my name is Nick and I was one of the co-founders of NowPlease. I live in London and enjoy building consumer-facing web-apps. I'm interested in the psychology of habit-forming products and UX design.
+Currently a Software Engineer at IBM based in London. I'm passionate about building consumer-facing web applications with a focus on habit-forming products and thoughtful UX design.
 
-* 👨‍💻 I'm a full-stack developer & love working with Java & Python
-* 🌱 I’m currently learning about cloud and gen AI
-* 🎓 I graduated from Durham University in 2020
-* 📫 How to reach me: nicholasjclamb@gmail.com
+## 🚀 About Me
+
+- 👨‍💻 Currently building: [sunsetting.co.uk](https://sunsetting.co.uk)
+- 🏗️ Previously built: [lambdatrading.co.uk](https://lambdatrading.co.uk)
+- 🌱 Interests: Cloud architectures and gen AI tech
+- 🎓 Durham University graduate (2020)
+- 🇬🇧 London-based developer
+
+## 📫 Connect With Me
+
+- 📧 Email: nicholasjclamb@gmail.com
+- 🔗 LinkedIn: [[Your LinkedIn profile]](https://www.linkedin.com/in/nicklamb7/)
